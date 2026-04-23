@@ -1,4 +1,4 @@
-# Sentiment Analysis of Cryptocurrency market using machine learning
+# Sentiment Analysis of the Cryptocurrency Market using Machine Learning
 
 This project analyzes the relationship between public sentiment and cryptocurrency price movements using real-world data.
 
@@ -32,10 +32,12 @@ The project demonstrates a correlation between sentiment polarity and market mov
 
 ## 📈 Model Performance
 
-- Logistic Regression Accuracy: 76.7%
-- SVM -LinearSVC Accuracy: 78.0%
-- KNN (k=5) Accuracy: 51.3%
-- Decision Tree Accuracy: 46.7%
+- Logistic Regression Accuracy: 77.3%
+- SVM -LinearSVC Accuracy: 78.1%
+- KNN (k=5) Accuracy: 51.6%
+- XG Boost Accuracy: 78.0%
+- Multi Naive Bayes Accuracy: 64.2%
+- Decision Tree Accuracy: 47.3%
 
 ## 🚀 Future Work
 
